@@ -4,5 +4,5 @@
 ㄷ. 필요한 라이브러리 설치<br />
    1. pandas
    2. xlrd
-   3. xlsxwriter<br />
+   3. xlsxwriter
 ㄹ. end<br />
